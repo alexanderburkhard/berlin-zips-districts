@@ -1,0 +1,97 @@
+,sub_district,district
+0,Charlottenburg,Bezirk Charlottenburg-Wilmersdorf
+1,Wilmersdorf,Bezirk Charlottenburg-Wilmersdorf
+2,Grunewald,Bezirk Charlottenburg-Wilmersdorf
+3,Schmargendorf,Bezirk Charlottenburg-Wilmersdorf
+4,Westend,Bezirk Charlottenburg-Wilmersdorf
+5,Charlottenburg-Nord,Bezirk Charlottenburg-Wilmersdorf
+6,Halensee,Bezirk Charlottenburg-Wilmersdorf
+9,Friedrichshain,Bezirk Friedrichshain-Kreuzberg
+10,Kreuzberg,Bezirk Friedrichshain-Kreuzberg
+12,Karlshorst,Bezirk Lichtenberg
+13,Rummelsburg,Bezirk Lichtenberg
+14,Friedrichsfelde,Bezirk Lichtenberg
+15,Lichtenberg,Bezirk Lichtenberg
+16,Falkenberg,Bezirk Lichtenberg
+17,Malchow,Bezirk Lichtenberg
+18,Wartenberg,Bezirk Lichtenberg
+19,Neu-Hohenschönhausen,Bezirk Lichtenberg
+20,Alt-Hohenschönhausen,Bezirk Lichtenberg
+21,Fennpfuhl,Bezirk Lichtenberg
+24,Biesdorf,Bezirk Marzahn-Hellersdorf
+25,Marzahn,Bezirk Marzahn-Hellersdorf
+26,Kaulsdorf,Bezirk Marzahn-Hellersdorf
+27,Mahlsdorf,Bezirk Marzahn-Hellersdorf
+28,Hellersdorf,Bezirk Marzahn-Hellersdorf
+30,Mitte,Bezirk Mitte
+31,Wedding,Bezirk Mitte
+32,Moabit,Bezirk Mitte
+33,Hansaviertel,Bezirk Mitte
+34,Tiergarten,Bezirk Mitte
+35,Gesundbrunnen,Bezirk Mitte
+36,Britz,Bezirk Neukölln
+37,Neukölln,Bezirk Neukölln
+38,Buckow,Bezirk Neukölln
+39,Rudow,Bezirk Neukölln
+40,Gropiusstadt,Bezirk Neukölln
+42,Prenzlauer Berg,Ortsteile Berlin Bezirk Pankow
+43,Weißensee,Ortsteile Berlin Bezirk Pankow
+44,Blankenburg,Ortsteile Berlin Bezirk Pankow
+45,Heinersdorf,Ortsteile Berlin Bezirk Pankow
+46,Karow,Ortsteile Berlin Bezirk Pankow
+47,Pankow,Ortsteile Berlin Bezirk Pankow
+48,Blankenfelde,Ortsteile Berlin Bezirk Pankow
+49,Buch,Ortsteile Berlin Bezirk Pankow
+50,Stadtrandsiedlung Malchow,Ortsteile Berlin Bezirk Pankow
+51,Französisch Buchholz,Ortsteile Berlin Bezirk Pankow
+52,Niederschönhausen,Ortsteile Berlin Bezirk Pankow
+53,Rosenthal,Ortsteile Berlin Bezirk Pankow
+54,Wilhelmsruh,Ortsteile Berlin Bezirk Pankow
+57,Reinickendorf,Bezirk Reinickendorf
+58,Tegel,Bezirk Reinickendorf
+59,Konradshöhe,Bezirk Reinickendorf
+60,Heiligensee,Bezirk Reinickendorf
+61,Frohnau,Bezirk Reinickendorf
+62,Hermsdorf,Bezirk Reinickendorf
+63,Waidmannslust,Bezirk Reinickendorf
+64,Lübars,Bezirk Reinickendorf
+65,Wittenau,Bezirk Reinickendorf
+66,Märkisches Viertel,Bezirk Reinickendorf
+67,Borsigwalde,Bezirk Reinickendorf
+69,Haselhorst,Bezirk Spandau
+70,Spandau,Bezirk Spandau
+71,Siemensstadt,Bezirk Spandau
+72,Staaken,Bezirk Spandau
+73,Gatow,Bezirk Spandau
+74,Kladow,Bezirk Spandau
+75,Falkenhagener Feld,Bezirk Spandau
+76,Hakenfelde,Bezirk Spandau
+77,Wilhelmstadt,Bezirk Spandau
+78,Wannsee,Bezirk Steglitz-Zehlendorf
+79,Steglitz,Bezirk Steglitz-Zehlendorf
+80,Dahlem,Bezirk Steglitz-Zehlendorf
+81,Lichterfelde,Bezirk Steglitz-Zehlendorf
+82,Lankwitz,Bezirk Steglitz-Zehlendorf
+83,Zehlendorf,Bezirk Steglitz-Zehlendorf
+84,Nikolassee,Bezirk Steglitz-Zehlendorf
+87,Schöneberg,Bezirk Tempelhof-Schöneberg
+88,Friedenau,Bezirk Tempelhof-Schöneberg
+89,Tempelhof,Bezirk Tempelhof-Schöneberg
+90,Mariendorf,Bezirk Tempelhof-Schöneberg
+91,Marienfelde,Bezirk Tempelhof-Schöneberg
+92,Lichtenrade,Bezirk Tempelhof-Schöneberg
+93,Altglienicke,Bezirk Treptow-Köpenick
+94,Grünau,Bezirk Treptow-Köpenick
+95,Niederschöneweide,Bezirk Treptow-Köpenick
+96,Bohnsdorf,Bezirk Treptow-Köpenick
+97,Oberschöneweide,Bezirk Treptow-Köpenick
+98,Schmöckwitz,Bezirk Treptow-Köpenick
+99,Alt-Treptow,Bezirk Treptow-Köpenick
+100,Plänterwald,Bezirk Treptow-Köpenick
+101,Baumschulenweg,Bezirk Treptow-Köpenick
+102,Johannisthal,Bezirk Treptow-Köpenick
+103,Adlershof,Bezirk Treptow-Köpenick
+104,Köpenick,Bezirk Treptow-Köpenick
+105,Friedrichshagen,Bezirk Treptow-Köpenick
+106,Rahnsdorf,Bezirk Treptow-Köpenick
+107,Müggelheim,Bezirk Treptow-Köpenick
